@@ -1,0 +1,18 @@
+.container {
+  margin-top: 3%;
+  width: 50%;
+}
+h1 {
+  margin-top: 2%;
+  text-align: center;
+}
+form {
+  background: ghostwhite;
+  padding: 5%;
+}
+body {
+  background: #eeeeee;
+}
+textarea {
+  height: 100px;
+}
